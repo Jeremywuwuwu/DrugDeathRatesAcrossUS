@@ -3,8 +3,6 @@
 ## Overview
 An exploratory data analysis of national drug overdose death rates, examining which population subgroups are most affected, how trends have shifted over time by gender, which drug types drive overdose deaths among young adults, and which years saw the sharpest year over year increases by drug type.
 
-Completed for ALY 6000 (Project 4) at Northeastern University.
-
 ## Dataset
 NCHS drug overdose death rate data from the CDC, covering deaths per 100,000 resident population broken out by drug type, sex, age, race, and Hispanic origin.
 
