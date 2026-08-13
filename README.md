@@ -1,4 +1,4 @@
-# Drug Overdose Death Rates in the US: A Deep Analysis in R
+# Drug Overdose Death Rates in the US: A Simple Analysis in R
 
 ## Overview
 An exploratory data analysis of national drug overdose death rates, examining which population subgroups are most affected, how trends have shifted over time by gender, which drug types drive overdose deaths among young adults, and which years saw the sharpest year over year increases by drug type.
